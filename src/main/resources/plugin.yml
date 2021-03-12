@@ -1,0 +1,7 @@
+name: ItemLegs
+main: fr.romaindev.itemslegs.ItemsLegs
+version: 1.0.0
+
+commands:
+  giveitem:
+    description: Give a certain custom item
